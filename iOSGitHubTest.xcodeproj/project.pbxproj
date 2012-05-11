@@ -22,13 +22,13 @@
 		DA818DB6155CA91A007F7511 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DA818DB8155CA91A007F7511 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DA818DBA155CA91A007F7511 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DA818DBE155CA91A007F7511 /* iOSGitHubTest-Info.plist */ = {isa = PBXFileReference; path = "iOSGitHubTest-Info.plist"; sourceTree = "<group>"; };
+		DA818DBE155CA91A007F7511 /* iOSGitHubTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOSGitHubTest-Info.plist"; sourceTree = "<group>"; };
 		DA818DC0155CA91A007F7511 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DA818DC2155CA91A007F7511 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DA818DC4155CA91A007F7511 /* iOSGitHubTest-Prefix.pch */ = {isa = PBXFileReference; path = "iOSGitHubTest-Prefix.pch"; sourceTree = "<group>"; };
-		DA818DC5155CA91A007F7511 /* TestAppDelegate.h */ = {isa = PBXFileReference; path = TestAppDelegate.h; sourceTree = "<group>"; };
+		DA818DC4155CA91A007F7511 /* iOSGitHubTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOSGitHubTest-Prefix.pch"; sourceTree = "<group>"; };
+		DA818DC5155CA91A007F7511 /* TestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppDelegate.h; sourceTree = "<group>"; };
 		DA818DC6155CA91A007F7511 /* TestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppDelegate.m; sourceTree = "<group>"; };
-		DA818DC8155CA91A007F7511 /* TestViewController.h */ = {isa = PBXFileReference; path = TestViewController.h; sourceTree = "<group>"; };
+		DA818DC8155CA91A007F7511 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
 		DA818DC9155CA91A007F7511 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 		DA818DCC155CA91A007F7511 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
