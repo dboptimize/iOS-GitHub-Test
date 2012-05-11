@@ -28,6 +28,7 @@
     //수정2
     //수정3
     //수정4
+    //수정5
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
