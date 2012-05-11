@@ -25,10 +25,7 @@
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     //수정1
-    //수정2
-    //수정3
-    //수정4
-    //수정5
+    //Pull 확인
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
